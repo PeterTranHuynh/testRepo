@@ -1,0 +1,3 @@
+[submodule "testrepobucket"]
+	path = testrepobucket
+	url = https://bitbucket.org/PeterTranHuynh/testrepobucket
